@@ -1,0 +1,8 @@
+Total Payroll: $105,886.25
+Number on payroll: 36
+Average pay: $2,941.28
+
+Total pay for:
+Managers: $21,344.34
+Sales: $54,530.51
+Admin: $30,011.4
